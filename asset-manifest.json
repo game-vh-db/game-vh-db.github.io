@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.c72a3d5f.css",
-    "main.js": "/static/js/main.30cec3c5.js",
+    "main.js": "/static/js/main.1b6827cb.js",
     "static/media/tier-elite.png": "/static/media/tier-elite.be150f8666aafc78a056.png",
     "static/media/tier-exceptional.png": "/static/media/tier-exceptional.4d1673f7d4405f5ec365.png",
     "static/media/tier-normal.png": "/static/media/tier-normal.cc4ea5f81cd8fc7b3513.png",
     "index.html": "/index.html",
     "main.c72a3d5f.css.map": "/static/css/main.c72a3d5f.css.map",
-    "main.30cec3c5.js.map": "/static/js/main.30cec3c5.js.map"
+    "main.1b6827cb.js.map": "/static/js/main.1b6827cb.js.map"
   },
   "entrypoints": [
     "static/css/main.c72a3d5f.css",
-    "static/js/main.30cec3c5.js"
+    "static/js/main.1b6827cb.js"
   ]
 }
